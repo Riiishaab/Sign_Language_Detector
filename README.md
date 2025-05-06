@@ -1,13 +1,8 @@
 🖐️ FastViT Hand Gesture Recognition
 Real-time hand gesture recognition using state-of-the-art vision transformers
-Python Badge
+![Python Badge](https://img.shields.io-time hand gesture recognition system using Apple's FastViT architecture. By leveraging transfer learning on the HaGRID dataset, the model achieves 97.5% accuracy while maintaining efficiency for real-time applications.
 
-This project implements a real-time hand gesture recognition system using Apple's FastViT architecture. By leveraging transfer learning on the HaGRID dataset, the model achieves 97.5% accuracy while maintaining efficiency for real-time applications.
-
-Hand Gesture Demo Image
-
-🔑 Key Features
-Real-time gesture recognition through webcam integration
+![Hand Gesture Demo ImageReal-time gesture recognition** through webcam integration
 
 19 different hand gestures recognized with high accuracy
 
@@ -39,7 +34,6 @@ Properly split between training and validation sets
 
 🚀 Usage
 Option 1: Run in Google Colab
-
 Open the training notebook
 
 Run all cells to train the model or load pretrained weights
@@ -47,7 +41,6 @@ Run all cells to train the model or load pretrained weights
 Follow instructions for webcam integration
 
 Option 2: Inference with pretrained model
-
 Open the inference notebook
 
 Upload the pretrained model file (sign_lang_model.pkl)
