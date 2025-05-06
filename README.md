@@ -77,10 +77,4 @@ The model was trained on the Hand Gesture Recognition Image Dataset (**HaGRID**)
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ⭐ If you find this project useful, please consider giving it a star!  
